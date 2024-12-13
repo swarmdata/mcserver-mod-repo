@@ -12,3 +12,4 @@ playeranimation.jar
 sophisticatedbackpacks.jar
 sophisticatedcore.jar
 corpse.jar
+
