@@ -6,6 +6,7 @@ architectury-9.2.14-forge.jar
 fabric-api-0.92.2+1.11.8+1.20.1.jar
 framework-forge-1.20.1-0.7.12.jar
 geckolib-forge-1.20.1-4.4.9.jar
+cfm-forge-1.20.1.jar
 caelus-forge-3.2.0+1.20.1.jar
 curios-forge-5.11.0+1.20.1.jar
 irons_spellbooks-1.20.1-3.4.0.5.jar
@@ -13,4 +14,5 @@ playeranimation.jar
 sophisticatedbackpacks.jar
 sophisticatedcore.jar
 corpse.jar
+
 
